@@ -1,25 +1,25 @@
 [
     {
       "nav": {
-        "aboutus": "About Us",
-        "roadmap": "Road Map",
-        "impact": "Impact",
-        "prizes": "Prizes",
-        "testimonial": "Testimonial",
-        "partners": "Partners",
-        "themes":"Themes",
-        "faq": "FAQ",
-        "login": "Login"
+        "aboutus": "எங்களைப் பற்றி",
+        "roadmap": "சாலை வரைபடம்",
+        "impact": "தாக்கம்",
+        "prizes": "பரிசுகள்",
+        "testimonial": "சான்று",
+        "partners": "கூட்டாளர்கள்",
+        "themes":"கருப்பொருள்கள்",
+        "faq": "கேள்விகள்",
+        "login": "உள்நுழைவு"
       }
     },
     {
       "heroSection": {
-        "title":"School Innovation Marathon 2025",
+        "title":"பள்ளி கண்டுபிடிப்பு மராத்தான் 2025",
         "title1":"Creating Change Makers Of Tomorrow With",
         "title1_p1":"21st Century Skills. Nurture a culture of social",
         "title1_p2":"innovation and build skills while inspiring young",
         "title1_p3":"people to become transformative leaders",
-        "login": "Login",
+        "login": "உள்நுழைவு",
         "register":"Register"
       }
     },
