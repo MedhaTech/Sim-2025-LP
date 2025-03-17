@@ -1,25 +1,25 @@
 [
     {
       "nav": {
-        "aboutus": "About Us",
-        "roadmap": "Road Map",
-        "impact": "Impact",
-        "prizes": "Prizes",
-        "testimonial": "Testimonial",
-        "partners": "Partners",
-        "themes":"Themes",
-        "faq": "FAQ",
-        "login": "Login"
+        "aboutus": "ನಮ್ಮ ಬಗ್ಗೆ",
+        "roadmap": "ರಸ್ತೆ",
+        "impact": "ಪರಿಣಾಮ",
+        "prizes": "ಬಹುಮಾನ",
+        "testimonial": "ಪ್ರಶವಿತನದ",
+        "partners": "ಪಾಲುದಾರಿಕೆ",
+        "themes":"ಥೀಮ್‌ಗಳು",
+        "faq": "ಹದಮುದಿ",
+        "login": "ಲಗಾಟಿಸು"
       }
     },
     {
       "heroSection": {
-        "title":"School Innovation Marathon 2025",
+        "title":"ಸ್ಕೂಲ್ ಇನ್ನೋವೇಶನ್ ಮ್ಯಾರಥಾನ್ 2025",
         "title1":"Creating Change Makers Of Tomorrow With",
         "title1_p1":"21st Century Skills. Nurture a culture of social",
         "title1_p2":"innovation and build skills while inspiring young",
         "title1_p3":"people to become transformative leaders",
-        "login": "Login",
+        "login": "ಲಗಾಟಿಸು",
         "register":"Register"
       }
     },
