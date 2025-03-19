@@ -237,7 +237,7 @@
 
 .time {
     position: absolute;
-    bottom: -20px; /* Adjust this value to place the time where you want */
+    bottom: -12px; /* Adjust this value to place the time where you want */
     right: 60px; /* Adjust this value to place the time where you want */
     font-size: 0.8em;
     color: gray;
