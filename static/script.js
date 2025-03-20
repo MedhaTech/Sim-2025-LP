@@ -275,7 +275,7 @@ document.addEventListener('DOMContentLoaded', function() {
             optionElement.classList.add('option');
     
             if (firstOption) {
-                optionElement.style.marginLeft = '30px'; // Apply left margin only to the first option
+                optionElement.style.marginLeft = '35px'; // Apply left margin only to the first option
                 firstOption = false; // Reset flag after applying margin once
             }
     
@@ -317,7 +317,7 @@ document.addEventListener('DOMContentLoaded', function() {
             optionElement.classList.add('option');
     
             if (firstOption) {
-                optionElement.style.marginLeft = '30px'; // Apply left margin only to the first option
+                optionElement.style.marginLeft = '35px'; // Apply left margin only to the first option
                 firstOption = false; // Reset flag after applying margin once
             }
     
@@ -359,7 +359,7 @@ document.addEventListener('DOMContentLoaded', function() {
             optionElement.classList.add('option');
     
             if (firstOption) {
-                optionElement.style.marginLeft = '30px'; // Apply left margin only to the first option
+                optionElement.style.marginLeft = '35px'; // Apply left margin only to the first option
                 firstOption = false; // Reset flag after applying margin once
             }
     
@@ -390,7 +390,7 @@ document.addEventListener('DOMContentLoaded', function() {
 
     function displaySuboptions2() {
         const subOptions = ['About SIM', 'Road map', 'Themes', 'Prizes and Recognitions']; // List of sub-options
-        const marginLeftValue = '10px'; // Set a consistent left margin
+        const marginLeftValue = '35px'; // Set a consistent left margin
     
         subOptions.forEach(function(optionText) {
             var optionContainer = document.createElement('div');
@@ -658,7 +658,7 @@ function displayTeacherPortalOptions() {
         'Registration', 'Login', 'Forgot Password', 'Change PWD', 'Pre Survey', 'Dashboard',
         'Course', 'Student teams Creation / Management', 'Resources', 'Support', 'Post Survey', 'Certificate'
     ];
-    const marginLeftValue = '10px'; // Set a consistent left margin
+    const marginLeftValue = '35px'; // Set a consistent left margin
 
     subOptions.forEach(function(optionText) {
         var optionContainer = document.createElement('div');
@@ -700,7 +700,7 @@ function displayTeacherPortalOptions() {
             const subOptions = [
                 'Registration / Team Creation', 'Login', 'Pre Survey', 'Dashboard', 'Course', 'Idea submission', 'Certificate'
             ];
-            const marginLeftValue = '10px'; // Set a consistent left margin
+            const marginLeftValue = '35px'; // Set a consistent left margin
 
             subOptions.forEach(function(optionText) {
                 var optionContainer = document.createElement('div');
@@ -811,7 +811,7 @@ function displayTeacherPortalOptions() {
                 'Teacher Registration', 'Teacher Login', 'Dashboard', 'Student Team Creation', 'Teacher course', 'Resources',
                 'Post survey', 'My profile And Password change', 'Forgot password & Password change', 'Student Login Credentials', 'Support'
             ];
-            const marginLeftValue = '10px'; // Set a consistent left margin
+            const marginLeftValue = '35px'; // Set a consistent left margin
         
             subOptions.forEach(function(optionText) {
                 var optionContainer = document.createElement('div');
@@ -916,7 +916,7 @@ function displayTeacherPortalOptions() {
             const subOptions = [
                 'Student Login', 'Student Dashboard', 'Student Course', 'Idea Submission', 'Post Survey', 'Student Resources'
             ];
-            const marginLeftValue = '10px'; // Set a consistent left margin
+            const marginLeftValue = '35px'; // Set a consistent left margin
         
             subOptions.forEach(function(optionText) {
                 var optionContainer = document.createElement('div');
